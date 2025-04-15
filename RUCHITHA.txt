@@ -1,2 +1,2 @@
-Hello from feature
+line from master
 
