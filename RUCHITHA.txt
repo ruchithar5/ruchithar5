@@ -1,5 +1,2 @@
-HEAD
-line from master
-line from feature
- 7f50546 (Edit in feature)
+i am in feature
 
